@@ -18,13 +18,10 @@
 ![image](https://github.com/MartinMartout/Data-Structure/blob/main/%E4%BD%9C%E6%A5%AD2.jpg)
 
 作業3
-[程式碼]
-![image]
+[程式碼](https://github.com/MartinMartout/Data-Structure/blob/main/hw3.py)
+![image](https://github.com/MartinMartout/Data-Structure/blob/main/%E4%BD%9C%E6%A5%AD3.jpg)
 
-作業4
-[程式碼]
-![image]
-
-作業5
-[程式碼]
-![image]
+作業4&5
+[程式碼](https://github.com/MartinMartout/Data-Structure/blob/main/hw4%265.py)
+![image](https://github.com/MartinMartout/Data-Structure/blob/main/%E4%BD%9C%E6%A5%AD4.jpg)
+![image](https://github.com/MartinMartout/Data-Structure/blob/main/%E4%BD%9C%E6%A5%AD5.jpg)
