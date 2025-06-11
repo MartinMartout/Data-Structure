@@ -14,9 +14,11 @@
 
 作業2
 [寶可夢對戰csv檔]
+[程式碼](https://github.com/MartinMartout/Data-Structure/blob/main/hw2.py)
 
 作業3
-
+[程式碼]
 作業4
-
+[程式碼]
 作業5
+[程式碼]
