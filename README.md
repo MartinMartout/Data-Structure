@@ -7,9 +7,17 @@
 系級：科技系三年級
 
 # 作業連結區
+作業1
 [寶可夢csv檔](https://github.com/MartinMartout/Data-Structure/blob/main/pokemon.csv)
-
 [程式碼](https://github.com/MartinMartout/Data-Structure/blob/main/dataAgent.py)
 ![image](https://github.com/user-attachments/assets/c7767c7f-8d6c-475e-b72c-50a220ce8b95)
+
+作業2
+
+作業3
+
+作業4
+
+作業5
 
 # 專題連結區
