@@ -13,9 +13,9 @@
 ![image](https://github.com/user-attachments/assets/c7767c7f-8d6c-475e-b72c-50a220ce8b95)
 
 作業2
-[寶可夢對戰csv檔]
+[寶可夢對戰csv檔](https://github.com/MartinMartout/Data-Structure/blob/main/pokemon_sv_dialogue_sample.csv)
 [程式碼](https://github.com/MartinMartout/Data-Structure/blob/main/hw2.py)
-
+![image]
 作業3
 [程式碼]
 作業4
